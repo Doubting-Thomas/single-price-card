@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  font-family: sans-serif;
+  font-family: "Karla", sans-serif;
   font-size: 1.6rem;
   line-height: 1.7;
   min-height: 100vh;
@@ -19,4 +19,29 @@ main {
 section {
   width: 600px;
   padding: 2rem;
+}
+
+.heading-main {
+  font-weight: 700;
+  color: hsl(179, 62%, 43%);
+}
+
+.intro-heading-secondary {
+  font-weight: 700;
+  color: hsl(71, 73%, 54%);
+}
+
+.intro-main-text {
+  font-weight: 400;
+  color: hsl(218, 22%, 67%);
+}
+
+.sub-heading-secondary {
+  font-weight: 700;
+  color: hsl(179, 62%, 43%);
+}
+
+.card-price {
+  font-weight: 700;
+  color: hsl(71, 73%, 54%);
 }
